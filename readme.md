@@ -9,7 +9,10 @@
 Fifth project for [42 school](https://42.fr/en/homepage/). The aim of this project is to sort data on a stack, with a limited set of instructions, using
 the lowest possible number of actions.
 
+<div align="center">
+
 ![beautiful sort visualization](./imgs/500.gif)
+</div>
 
 ## Subject
 
@@ -59,12 +62,14 @@ ra
 pa
 ra
 ```
+<div align="center">
 
 ![example step by step](./imgs/example.gif)
+</div>
 
 ## Useful links
 
-[Medium article - Push_Swap: The least amount of moves with two stacks](https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a)
-[push_swap_tester by @laisarena](https://github.com/laisarena/push_swap_tester)
-[push_swap_tester by @LeoFu9487](https://github.com/LeoFu9487/push_swap_tester)
+[Medium article - Push_Swap: The least amount of moves with two stacks](https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a)  
+[push_swap_tester by @laisarena](https://github.com/laisarena/push_swap_tester)  
+[push_swap_tester by @LeoFu9487](https://github.com/LeoFu9487/push_swap_tester)  
 [push_swap visualizer by @o-reo](https://github.com/o-reo/push_swap_visualizer)
